@@ -24,4 +24,4 @@ We also simulated Bond Percolation, observing a phase transition at **$p_c \appr
 ## 🚀 How to Run
 1. Navigate to this folder:
    ```bash
-   cd Computational-Physics-MnP/Week1_Percolation
+   cd Computational-Physics-MnP-Many-Body-Physics/Week1_Percolation
